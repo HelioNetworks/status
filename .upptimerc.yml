@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/logo-192.png
   name: HelioHost Status
-  introTitle: "Status for HelioHost services"
+  introTitle: "Status for HelioHost Services"
   introMessage: If you need to contact us you can post on our forum <a href="https://helionet.org/">helionet.org</a>, email us at <a href="mailto:support@heliohost.org">support@heliohost.org</a>, chat with us on <a href="https://discord.gg/fAk2rMfyba">Discord</a>, Tweet at us on <a href="https://twitter.com/heliohost">Twitter</a>, hit us in the face with a book on <a href="https://www.facebook.com/HelioHost.org/">Facebook</a>, text, call, or voicemail us at <a href="tel:+1-802-884-3546">+1 (802) 884-3546</a>, say "what's up?" to us on <a href="https://wa.me/18028843546">WhatsApp</a>.
   navbar:
     - title: Status
