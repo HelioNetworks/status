@@ -11,6 +11,8 @@ sites:
     url: https://krydos.heliohost.org/test.html
   - name: Johnny
     url: https://krydos2.heliohost.org/test.html
+  - name: VPS
+    url: $VPS_UPTIME
     
 assignees: # Users to assign downtime issues (optional)
   - Kryd0s
