@@ -13,6 +13,7 @@ sites:
     url: $TOMMY_UPTIME
   - name: Johnny
     url: $JOHNNY_UPTIME
+    icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico
   - name: VPS
     url: $VPS_UPTIME
     
