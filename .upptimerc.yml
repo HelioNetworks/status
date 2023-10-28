@@ -11,6 +11,7 @@ sites:
     icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico
   - name: Tommy
     url: $TOMMY_UPTIME
+    icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico
   - name: Johnny
     url: $JOHNNY_UPTIME
     icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico
