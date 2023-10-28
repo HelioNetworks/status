@@ -1,7 +1,7 @@
-url: https://heliohost.org/test.html
+url: $HH_UPTIME
 status: up
 code: 200
-responseTime: 260
-lastUpdated: 2023-10-28T02:29:52.496Z
+responseTime: 518
+lastUpdated: 2023-10-28T02:35:20.086Z
 startTime: 2023-10-27T23:10:39.483Z
 generator: Upptime <https://github.com/upptime/upptime>
