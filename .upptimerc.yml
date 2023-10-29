@@ -30,14 +30,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/logo-192.png
   name: HelioHost Status
   introTitle: "Status for HelioHost Services"
-  introMessage: If you need to contact us you can post on our forum <a href="https://helionet.org/" target="_blank">helionet.org</a>, email us at <a href="mailto:support@heliohost.org" target="_blank">support@heliohost.org</a>, chat with us on <a href="https://discord.gg/fAk2rMfyba" target="_blank">Discord</a>, tweet at us on <a href="https://twitter.com/heliohost" target="_blank">Twitter</a>, hit us in the face with a book on <a href="https://www.facebook.com/HelioHost.org/" target="_blank">Facebook</a>, text, call, or voicemail us at <a href="tel:+1-802-884-3546" target="_blank">+1 (802) 884-3546</a>, say "What's up?" to us on <a href="https://wa.me/18028843546" target="_blank">WhatsApp</a>.
+  introMessage: For the latest news and if you need to contact us you can post on our forum <a href="https://helionet.org/" target="_blank">helionet.org</a>, email us at <a href="mailto:support@heliohost.org" target="_blank">support@heliohost.org</a>, chat with us on <a href="https://discord.gg/fAk2rMfyba" target="_blank">Discord</a>, tweet at us on <a href="https://twitter.com/heliohost" target="_blank">Twitter</a>, hit us in the face with a book on <a href="https://www.facebook.com/HelioHost.org/" target="_blank">Facebook</a>, text, call, or voicemail us at <a href="tel:+1-802-884-3546" target="_blank">+1 (802) 884-3546</a>, say "What's up?" to us on <a href="https://wa.me/18028843546" target="_blank">WhatsApp</a>.
   navbar:
-    - title: Status
+    - title: Uptime
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
-  footer: Test.
+  footer: © 2005-2023 Helio Networks. All rights reserved.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
