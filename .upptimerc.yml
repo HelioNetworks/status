@@ -18,6 +18,9 @@ sites:
   - name: VPS
     url: $VPS_UPTIME
     icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/vps.ico
+  - name: Lily
+    url: $LILY_UPTIME
+    icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/windows.ico
     
 assignees: # Users to assign downtime issues (optional)
   - Kryd0s
