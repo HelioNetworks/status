@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 400,
-    "timeWeek": 443,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "time": 351,
+    "timeDay": 466,
+    "timeWeek": 436,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 394,
-    "timeWeek": 450,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 350,
+    "timeDay": 469,
+    "timeWeek": 443,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 913,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 904,
     "timeDay": 7716,
-    "timeWeek": 2201,
-    "timeMonth": 913,
-    "timeYear": 913,
-    "dailyMinutesDown": {
-      "2023-11-13": 7
-    }
+    "timeWeek": 2305,
+    "timeMonth": 904,
+    "timeYear": 904,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Johnny",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 336,
-    "timeWeek": 329,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "time": 276,
+    "timeDay": 217,
+    "timeWeek": 310,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -85,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 182,
-    "timeWeek": 198,
+    "timeDay": 167,
+    "timeWeek": 192,
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 274,
-    "timeWeek": 278,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 208,
+    "timeDay": 333,
+    "timeWeek": 275,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]
