@@ -41,38 +41,37 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 903,
     "timeDay": 365,
     "timeWeek": 2131,
     "timeMonth": 903,
     "timeYear": 903,
-    "dailyMinutesDown": {
-      "2023-11-17": 19,
-      "2023-11-16": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Johnny",
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 393,
-    "timeWeek": 285,
-    "timeMonth": 279,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "time": 281,
+    "timeDay": 383,
+    "timeWeek": 296,
+    "timeMonth": 281,
+    "timeYear": 281,
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "VPS",
