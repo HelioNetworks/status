@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 500,
-    "timeWeek": 434,
+    "timeDay": 345,
+    "timeWeek": 442,
     "timeMonth": 363,
     "timeYear": 363,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 499,
-    "timeWeek": 386,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "time": 356,
+    "timeDay": 459,
+    "timeWeek": 410,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 882,
-    "timeDay": 505,
-    "timeWeek": 1950,
-    "timeMonth": 882,
-    "timeYear": 882,
-    "dailyMinutesDown": {
-      "2023-11-18": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 876,
+    "timeDay": 501,
+    "timeWeek": 1953,
+    "timeMonth": 876,
+    "timeYear": 876,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Johnny",
@@ -61,19 +59,17 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 284,
-    "timeDay": 387,
-    "timeWeek": 319,
-    "timeMonth": 284,
-    "timeYear": 284,
-    "dailyMinutesDown": {
-      "2023-11-17": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 287,
+    "timeDay": 449,
+    "timeWeek": 342,
+    "timeMonth": 287,
+    "timeYear": 287,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VPS",
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 198,
-    "timeWeek": 177,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 172,
+    "timeDay": 258,
+    "timeWeek": 189,
+    "timeMonth": 172,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 305,
-    "timeWeek": 250,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "time": 221,
+    "timeDay": 309,
+    "timeWeek": 272,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   }
 ]
