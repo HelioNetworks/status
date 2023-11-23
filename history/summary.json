@@ -58,18 +58,20 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 106,
-    "timeWeek": 327,
-    "timeMonth": 286,
-    "timeYear": 286,
-    "dailyMinutesDown": {}
+    "time": 288,
+    "timeDay": 262,
+    "timeWeek": 335,
+    "timeMonth": 288,
+    "timeYear": 288,
+    "dailyMinutesDown": {
+      "2023-11-23": 0
+    }
   },
   {
     "name": "VPS",
