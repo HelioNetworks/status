@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 296,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 361,
+    "timeDay": 446,
+    "timeWeek": 353,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 405,
-    "timeWeek": 408,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 358,
+    "timeDay": 308,
+    "timeWeek": 380,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 239,
-    "timeWeek": 350,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "time": 876,
+    "timeDay": 10809,
+    "timeWeek": 808,
+    "timeMonth": 876,
+    "timeYear": 876,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +58,20 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 381,
-    "timeWeek": 335,
-    "timeMonth": 291,
-    "timeYear": 291,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 389,
+    "timeWeek": 330,
+    "timeMonth": 292,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2023-11-24": 0
+    }
   },
   {
     "name": "VPS",
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 164,
-    "timeWeek": 180,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 171,
+    "timeDay": 182,
+    "timeWeek": 178,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 274,
-    "timeWeek": 214,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 216,
+    "timeDay": 318,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   }
 ]
