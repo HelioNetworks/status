@@ -54,8 +54,7 @@
     "dailyMinutesDown": {
       "2023-11-29": 3,
       "2023-11-27": 1,
-      "2023-11-25": 1,
-      "2023-11-24": 0
+      "2023-11-25": 1
     }
   },
   {
@@ -95,9 +94,7 @@
     "timeWeek": 185,
     "timeMonth": 176,
     "timeYear": 173,
-    "dailyMinutesDown": {
-      "2023-11-28": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lily",
