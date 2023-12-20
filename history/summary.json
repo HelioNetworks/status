@@ -49,7 +49,7 @@
     "time": 779,
     "timeDay": 343,
     "timeWeek": 317,
-    "timeMonth": 737,
+    "timeMonth": 742,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2023-12-18": 2,
@@ -105,19 +105,19 @@
     "url": "$VPS_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/vps.ico",
     "slug": "vps",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "93.17%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.87%",
-    "time": 612,
-    "timeDay": 10240,
-    "timeWeek": 3527,
-    "timeMonth": 1065,
-    "timeYear": 612,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "87.38%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.76%",
+    "time": 928,
+    "timeDay": 13362,
+    "timeWeek": 5447,
+    "timeMonth": 1684,
+    "timeYear": 928,
     "dailyMinutesDown": {
-      "2023-12-20": 98
+      "2023-12-20": 181
     }
   },
   {
