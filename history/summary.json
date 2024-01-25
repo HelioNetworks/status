@@ -161,11 +161,11 @@
     "url": "$LILY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/windows.ico",
     "slug": "lily",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 214,
     "timeDay": 107,
@@ -173,6 +173,7 @@
     "timeMonth": 220,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2024-01-25": 0,
       "2023-12-31": 6
     }
   }
