@@ -40,7 +40,7 @@
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "99.69%",
     "uptimeWeek": "98.88%",
@@ -49,7 +49,7 @@
     "time": 675,
     "timeDay": 248,
     "timeWeek": 862,
-    "timeMonth": 678,
+    "timeMonth": 687,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2024-02-14": 5,
