@@ -4,28 +4,30 @@
     "url": "$HH_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "helio-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 400,
     "timeWeek": 544,
     "timeMonth": 457,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 3
+    }
   },
   {
     "name": "Forums",
     "url": "$HN_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
@@ -33,26 +35,28 @@
     "timeWeek": 461,
     "timeMonth": 484,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 2
+    }
   },
   {
     "name": "Tommy",
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
-    "uptime": "99.86%",
+    "status": "down",
+    "uptime": "99.87%",
     "uptimeDay": "99.70%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 660,
-    "timeDay": 258,
+    "timeDay": 192,
     "timeWeek": 1208,
     "timeMonth": 767,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2024-04-17": 3,
+      "2024-04-17": 5,
       "2024-04-16": 1,
       "2024-04-15": 7,
       "2024-04-13": 4,
@@ -103,7 +107,7 @@
       "2024-02-15": 10,
       "2024-02-14": 7,
       "2024-02-13": 1,
-      "2024-02-12": 89
+      "2024-02-12": 55
     }
   },
   {
@@ -111,10 +115,10 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 434,
@@ -123,6 +127,7 @@
     "timeMonth": 415,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2024-04-17": 1,
       "2024-04-16": 8,
       "2024-04-14": 1,
       "2024-04-08": 0,
@@ -184,9 +189,9 @@
     "url": "$VPS_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/vps.ico",
     "slug": "vps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +200,9 @@
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 536,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 0
+    }
   },
   {
     "name": "Lily",
