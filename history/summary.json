@@ -6,18 +6,16 @@
     "slug": "helio-host",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
     "timeDay": 445,
     "timeWeek": 432,
     "timeMonth": 471,
     "timeYear": 417,
-    "dailyMinutesDown": {
-      "2024-05-24": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forums",
@@ -26,29 +24,27 @@
     "slug": "forums",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 519,
     "timeWeek": 430,
     "timeMonth": 517,
     "timeYear": 407,
-    "dailyMinutesDown": {
-      "2024-05-24": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tommy",
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.89%",
     "time": 653,
     "timeDay": 444,
@@ -56,7 +52,7 @@
     "timeMonth": 502,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2024-05-24": 3,
+      "2024-05-24": 2,
       "2024-05-23": 2,
       "2024-05-22": 2,
       "2024-05-21": 10,
@@ -121,11 +117,11 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
     "time": 425,
     "timeDay": 630,
@@ -133,7 +129,7 @@
     "timeMonth": 414,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2024-05-24": 2,
+      "2024-05-24": 1,
       "2024-05-20": 0,
       "2024-05-19": 1,
       "2024-05-17": 0,
@@ -210,10 +206,10 @@
     "url": "$VPS_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/vps.ico",
     "slug": "vps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
@@ -221,7 +217,9 @@
     "timeWeek": 375,
     "timeMonth": 444,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 1
+    }
   },
   {
     "name": "Lily",
