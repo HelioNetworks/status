@@ -4,10 +4,10 @@
     "url": "$HH_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "helio-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
@@ -15,17 +15,19 @@
     "timeWeek": 441,
     "timeMonth": 475,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 2
+    }
   },
   {
     "name": "Forums",
     "url": "$HN_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
@@ -33,17 +35,19 @@
     "timeWeek": 420,
     "timeMonth": 517,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 1
+    }
   },
   {
     "name": "Tommy",
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.89%",
     "time": 652,
@@ -52,6 +56,7 @@
     "timeMonth": 498,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2024-05-24": 1,
       "2024-05-23": 2,
       "2024-05-22": 2,
       "2024-05-21": 10,
@@ -108,7 +113,7 @@
       "2024-03-13": 0,
       "2024-03-10": 7,
       "2024-03-09": 6,
-      "2024-03-08": 22
+      "2024-03-08": 16
     }
   },
   {
@@ -116,9 +121,9 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
@@ -128,6 +133,7 @@
     "timeMonth": 405,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-05-24": 0,
       "2024-05-20": 0,
       "2024-05-19": 1,
       "2024-05-17": 0,
