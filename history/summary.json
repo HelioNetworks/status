@@ -4,19 +4,19 @@
     "url": "$HH_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "helio-host",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 2495,
-    "timeWeek": 780,
-    "timeMonth": 453,
+    "timeDay": 1508,
+    "timeWeek": 748,
+    "timeMonth": 456,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-07-12": 1
+      "2024-07-12": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$HN_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "forums",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 849,
-    "timeWeek": 473,
-    "timeMonth": 364,
-    "timeYear": 396,
+    "time": 397,
+    "timeDay": 693,
+    "timeWeek": 481,
+    "timeMonth": 370,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 9
     }
   },
   {
