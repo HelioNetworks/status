@@ -4,19 +4,19 @@
     "url": "$HH_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "helio-host",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 168,
-    "timeWeek": 689,
-    "timeMonth": 461,
+    "timeDay": 355,
+    "timeWeek": 673,
+    "timeMonth": 464,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-07-14": 0
+      "2024-07-14": 10
     }
   },
   {
