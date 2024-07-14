@@ -1,7 +1,7 @@
 url: $TOMMY_UPTIME
-status: down
-code: 502
-responseTime: 508
-lastUpdated: 2024-07-14T14:44:50.239Z
+status: up
+code: 200
+responseTime: 66
+lastUpdated: 2024-07-14T15:00:03.767Z
 startTime: 2023-10-27T23:10:41.016Z
 generator: Upptime <https://github.com/upptime/upptime>
