@@ -1,7 +1,7 @@
 url: $LILY_UPTIME
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-17T01:37:48.274Z
+status: up
+code: 200
+responseTime: 248
+lastUpdated: 2024-07-17T03:57:46.076Z
 startTime: 2023-10-31T19:50:33.673Z
 generator: Upptime <https://github.com/upptime/upptime>
