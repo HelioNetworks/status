@@ -9,6 +9,9 @@ sites:
   - name: Forums
     url: $HN_UPTIME
     icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico
+  - name: Morty
+    url: $MORTY_UPTIME
+    icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico
   - name: Tommy
     url: $TOMMY_UPTIME
     icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico
