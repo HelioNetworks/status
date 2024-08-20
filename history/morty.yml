@@ -1,7 +1,7 @@
 url: $MORTY_UPTIME
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-20T20:03:54.036Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2024-08-20T20:25:30.332Z
 startTime: 2024-07-17T21:51:40.061Z
 generator: Upptime <https://github.com/upptime/upptime>
