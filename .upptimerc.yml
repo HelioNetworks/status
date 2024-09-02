@@ -43,7 +43,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
-  footer: © 2005-2023 Helio Networks. All rights reserved.
+  footer: © 2005-2024 Helio Networks. All rights reserved.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
