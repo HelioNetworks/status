@@ -47,11 +47,11 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/morty.ico",
     "slug": "morty",
     "status": "up",
-    "uptime": "70.89%",
+    "uptime": "70.90%",
     "uptimeDay": "99.72%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "55.18%",
-    "uptimeYear": "70.89%",
+    "uptimeWeek": "93.08%",
+    "uptimeMonth": "55.20%",
+    "uptimeYear": "70.90%",
     "time": 324,
     "timeDay": 337,
     "timeWeek": 303,
@@ -163,11 +163,11 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "91.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.99%",
-    "uptimeMonth": "89.31%",
+    "uptimeMonth": "89.32%",
     "uptimeYear": "91.35%",
     "time": 572,
     "timeDay": 353,
@@ -175,6 +175,7 @@
     "timeMonth": 1951,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2024-09-07": 0,
       "2024-09-02": 1,
       "2024-08-25": 2,
       "2024-08-24": 1,
@@ -277,8 +278,7 @@
       "2024-02-12": 2,
       "2024-02-06": 2,
       "2024-02-03": 0,
-      "2024-01-26": 1,
-      "2024-01-25": 1
+      "2024-01-26": 1
     }
   },
   {
