@@ -47,11 +47,11 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/morty.ico",
     "slug": "morty",
     "status": "up",
-    "uptime": "77.73%",
+    "uptime": "77.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.41%",
-    "uptimeYear": "77.73%",
+    "uptimeYear": "77.80%",
     "time": 325,
     "timeDay": 347,
     "timeWeek": 314,
@@ -168,13 +168,13 @@
     "status": "up",
     "uptime": "91.79%",
     "uptimeDay": "99.93%",
-    "uptimeWeek": "99.87%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "91.79%",
     "time": 821,
     "timeDay": 352,
-    "timeWeek": 2815,
-    "timeMonth": 3078,
+    "timeWeek": 3057,
+    "timeMonth": 2893,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2024-09-23": 1,
@@ -277,9 +277,9 @@
     "url": "$VPS_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/vps.ico",
     "slug": "vps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -288,7 +288,9 @@
     "timeWeek": 328,
     "timeMonth": 349,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-23": 0
+    }
   },
   {
     "name": "Lily",
