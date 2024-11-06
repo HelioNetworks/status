@@ -47,11 +47,11 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/morty.ico",
     "slug": "morty",
     "status": "up",
-    "uptime": "86.46%",
+    "uptime": "86.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.46%",
+    "uptimeYear": "86.47%",
     "time": 344,
     "timeDay": 458,
     "timeWeek": 368,
@@ -89,9 +89,9 @@
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.79%",
+    "uptimeDay": "99.78%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
@@ -158,8 +158,7 @@
       "2024-07-25": 2,
       "2024-07-24": 6,
       "2024-07-23": 1,
-      "2024-07-22": 7,
-      "2024-07-20": 3
+      "2024-07-22": 7
     }
   },
   {
