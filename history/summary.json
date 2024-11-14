@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 431,
-    "timeDay": 712,
+    "timeDay": 710,
     "timeWeek": 580,
     "timeMonth": 563,
     "timeYear": 439,
@@ -47,11 +47,11 @@
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/morty.ico",
     "slug": "morty",
     "status": "up",
-    "uptime": "87.36%",
+    "uptime": "87.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.36%",
+    "uptimeYear": "87.38%",
     "time": 343,
     "timeDay": 404,
     "timeWeek": 338,
@@ -89,10 +89,10 @@
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
     "time": 666,
@@ -101,6 +101,7 @@
     "timeMonth": 327,
     "timeYear": 650,
     "dailyMinutesDown": {
+      "2024-11-14": 2,
       "2024-11-13": 12,
       "2024-11-06": 5,
       "2024-11-03": 1,
@@ -158,8 +159,7 @@
       "2024-07-26": 18,
       "2024-07-25": 2,
       "2024-07-24": 6,
-      "2024-07-23": 1,
-      "2024-07-22": 1
+      "2024-07-23": 1
     }
   },
   {
@@ -167,9 +167,9 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
-    "uptime": "92.88%",
-    "uptimeDay": "99.39%",
+    "status": "down",
+    "uptime": "92.89%",
+    "uptimeDay": "99.38%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "92.53%",
@@ -179,6 +179,7 @@
     "timeMonth": 1073,
     "timeYear": 860,
     "dailyMinutesDown": {
+      "2024-11-14": 0,
       "2024-11-13": 9,
       "2024-11-12": 4,
       "2024-11-11": 16,
@@ -266,7 +267,7 @@
       "2024-06-25": 5,
       "2024-06-24": 25,
       "2024-06-22": 2,
-      "2024-06-20": 3
+      "2024-06-20": 2
     }
   },
   {
