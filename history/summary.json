@@ -64,9 +64,9 @@
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.12%",
+    "uptimeDay": "99.10%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
@@ -138,8 +138,7 @@
       "2024-08-12": 3,
       "2024-08-10": 8,
       "2024-08-09": 2,
-      "2024-08-06": 5,
-      "2024-08-05": 1
+      "2024-08-06": 5
     }
   },
   {
