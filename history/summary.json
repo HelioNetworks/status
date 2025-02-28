@@ -129,16 +129,17 @@
     "slug": "johnny",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "99.91%",
     "time": 1005,
-    "timeDay": 274,
-    "timeWeek": 881,
-    "timeMonth": 928,
+    "timeDay": 307,
+    "timeWeek": 874,
+    "timeMonth": 926,
     "timeYear": 1055,
     "dailyMinutesDown": {
+      "2025-02-28": 0,
       "2025-02-27": 16,
       "2025-02-26": 27,
       "2025-02-25": 30,
@@ -167,8 +168,7 @@
       "2025-02-02": 8,
       "2025-02-01": 17,
       "2025-01-31": 22,
-      "2025-01-30": 9,
-      "2025-01-29": 6
+      "2025-01-30": 9
     }
   },
   {
