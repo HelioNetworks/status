@@ -129,7 +129,7 @@
     "slug": "johnny",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.71%",
+    "uptimeDay": "98.69%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.91%",
@@ -139,7 +139,7 @@
     "timeMonth": 1071,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2025-03-03": 18,
+      "2025-03-03": 19,
       "2025-03-02": 19,
       "2025-03-01": 22,
       "2025-02-28": 13,
