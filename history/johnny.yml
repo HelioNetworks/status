@@ -1,7 +1,7 @@
 url: $JOHNNY_UPTIME
-status: down
-code: 502
-responseTime: 140
-lastUpdated: 2025-06-08T23:27:16.888Z
+status: up
+code: 200
+responseTime: 412
+lastUpdated: 2025-06-08T23:28:59.339Z
 startTime: 2023-10-27T23:10:41.803Z
 generator: Upptime <https://github.com/upptime/upptime>
