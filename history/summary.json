@@ -6,17 +6,16 @@
     "slug": "helio-host",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 459,
     "timeDay": 313,
     "timeWeek": 473,
     "timeMonth": 500,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2025-09-03": 7,
       "2025-02-14": 24
     }
   },
@@ -27,17 +26,16 @@
     "slug": "forums",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 319,
     "timeWeek": 511,
     "timeMonth": 590,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-09-03": 7,
       "2025-02-14": 24
     }
   },
@@ -155,17 +153,17 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.30%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "98.71%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.89%",
     "time": 1076,
-    "timeDay": 424,
-    "timeWeek": 1188,
-    "timeMonth": 1058,
-    "timeYear": 1074,
+    "timeDay": 409,
+    "timeWeek": 1177,
+    "timeMonth": 1056,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-09-03": 19,
       "2025-09-02": 38,
@@ -184,7 +182,7 @@
       "2025-08-20": 42,
       "2025-08-19": 39,
       "2025-08-18": 64,
-      "2025-08-17": 19
+      "2025-08-17": 10
     }
   },
   {
