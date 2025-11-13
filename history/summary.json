@@ -36,7 +36,7 @@
     "timeDay": 468,
     "timeWeek": 450,
     "timeMonth": 439,
-    "timeYear": 629,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-09-26": 1,
       "2025-09-25": 16,
@@ -74,9 +74,9 @@
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.94%",
@@ -86,6 +86,7 @@
     "timeMonth": 950,
     "timeYear": 929,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-11-10": 1,
       "2025-11-09": 2,
       "2025-11-06": 38,
@@ -156,8 +157,7 @@
       "2025-05-23": 7,
       "2025-05-22": 1,
       "2025-05-21": 8,
-      "2025-05-20": 3,
-      "2025-05-19": 1
+      "2025-05-20": 3
     }
   },
   {
