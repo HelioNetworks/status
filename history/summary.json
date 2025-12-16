@@ -227,17 +227,17 @@
     "slug": "lily",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 238,
-    "timeWeek": 173,
-    "timeMonth": 209,
+    "timeDay": 253,
+    "timeWeek": 185,
+    "timeMonth": 211,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-12-16": 0
+      "2025-12-16": 1
     }
   }
 ]
