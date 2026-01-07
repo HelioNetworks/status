@@ -84,14 +84,14 @@
     "slug": "tommy",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.57%",
+    "uptimeDay": "99.55%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 885,
-    "timeDay": 3332,
-    "timeWeek": 1015,
-    "timeMonth": 818,
+    "timeDay": 2553,
+    "timeWeek": 958,
+    "timeMonth": 807,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2026-01-07": 6,
@@ -160,8 +160,7 @@
       "2025-08-18": 3,
       "2025-08-16": 3,
       "2025-08-12": 0,
-      "2025-08-11": 4,
-      "2025-08-08": 3
+      "2025-08-11": 4
     }
   },
   {
@@ -172,12 +171,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "98.27%",
-    "uptimeWeek": "97.48%",
+    "uptimeWeek": "97.50%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "99.83%",
     "time": 1028,
     "timeDay": 1412,
-    "timeWeek": 1807,
+    "timeWeek": 1844,
     "timeMonth": 1086,
     "timeYear": 1010,
     "dailyMinutesDown": {
