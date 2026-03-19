@@ -92,7 +92,7 @@
     "timeDay": 268,
     "timeWeek": 735,
     "timeMonth": 742,
-    "timeYear": 811,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2026-03-19": 11,
       "2026-03-18": 14,
@@ -174,18 +174,19 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.89%",
     "time": 955,
-    "timeDay": 295,
-    "timeWeek": 505,
-    "timeMonth": 633,
+    "timeDay": 370,
+    "timeWeek": 504,
+    "timeMonth": 635,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2026-03-19": 0,
       "2026-03-18": 6,
       "2026-03-17": 9,
       "2026-03-15": 37,
@@ -209,7 +210,7 @@
       "2026-02-25": 16,
       "2026-02-24": 16,
       "2026-02-23": 25,
-      "2026-02-22": 7
+      "2026-02-22": 3
     }
   },
   {
