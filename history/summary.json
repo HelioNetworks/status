@@ -13,7 +13,7 @@
     "time": 552,
     "timeDay": 192,
     "timeWeek": 391,
-    "timeMonth": 419,
+    "timeMonth": 416,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2026-03-27": 3,
@@ -41,7 +41,7 @@
     "time": 651,
     "timeDay": 288,
     "timeWeek": 440,
-    "timeMonth": 474,
+    "timeMonth": 473,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2026-03-27": 2,
@@ -68,7 +68,7 @@
     "time": 475,
     "timeDay": 103,
     "timeWeek": 275,
-    "timeMonth": 275,
+    "timeMonth": 280,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2025-12-23": 298,
@@ -92,7 +92,7 @@
     "time": 810,
     "timeDay": 364,
     "timeWeek": 317,
-    "timeMonth": 447,
+    "timeMonth": 451,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2026-04-05": 5,
@@ -176,15 +176,15 @@
     "slug": "johnny",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.19%",
+    "uptimeDay": "96.45%",
     "uptimeWeek": "98.58%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.88%",
     "time": 952,
-    "timeDay": 1791,
+    "timeDay": 2157,
     "timeWeek": 722,
-    "timeMonth": 653,
-    "timeYear": 963,
+    "timeMonth": 655,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2026-04-05": 54,
       "2026-04-04": 12,
@@ -228,7 +228,7 @@
     "time": 392,
     "timeDay": 146,
     "timeWeek": 279,
-    "timeMonth": 485,
+    "timeMonth": 496,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2026-02-22": 1,
@@ -249,7 +249,7 @@
     "time": 217,
     "timeDay": 76,
     "timeWeek": 222,
-    "timeMonth": 237,
+    "timeMonth": 243,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2025-12-23": 297,
