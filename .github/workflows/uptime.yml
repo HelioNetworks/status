@@ -35,6 +35,5 @@ jobs:
         with:
           command: "update"
         env:
-          tag_name: hello
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
