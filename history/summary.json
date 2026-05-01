@@ -4,9 +4,9 @@
     "url": "$HH_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "helio-host",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "95.10%",
+    "uptimeDay": "95.07%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
@@ -98,7 +98,7 @@
     "uptimeYear": "99.85%",
     "time": 766,
     "timeDay": 1019,
-    "timeWeek": 549,
+    "timeWeek": 531,
     "timeMonth": 373,
     "timeYear": 806,
     "dailyMinutesDown": {
@@ -184,17 +184,17 @@
     "slug": "johnny",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.97%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.83%",
     "time": 940,
     "timeDay": 364,
-    "timeWeek": 346,
+    "timeWeek": 348,
     "timeMonth": 792,
-    "timeYear": 940,
+    "timeYear": 938,
     "dailyMinutesDown": {
-      "2026-05-01": 40,
+      "2026-05-01": 31,
       "2026-04-30": 40,
       "2026-04-29": 80,
       "2026-04-28": 15,
@@ -224,7 +224,7 @@
       "2026-04-03": 16,
       "2026-04-02": 37,
       "2026-03-31": 13,
-      "2026-03-30": 11
+      "2026-03-30": 12
     }
   },
   {
