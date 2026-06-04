@@ -67,17 +67,17 @@
     "url": "$MORTY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/morty.ico",
     "slug": "morty",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 462,
-    "timeDay": 434,
-    "timeWeek": 284,
-    "timeMonth": 289,
-    "timeYear": 483,
+    "timeDay": 436,
+    "timeWeek": 303,
+    "timeMonth": 294,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-08-24": 0,
       "2025-11-02": 0,
@@ -85,7 +85,7 @@
       "2025-12-23": 298,
       "2026-05-01": 24,
       "2026-04-30": 41,
-      "2026-06-04": 0
+      "2026-06-04": 2
     }
   },
   {
