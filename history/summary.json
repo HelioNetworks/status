@@ -38,8 +38,8 @@
     "slug": "forums",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 646,
@@ -59,8 +59,7 @@
       "2026-04-07": 1,
       "2026-05-01": 51,
       "2026-04-30": 42,
-      "2026-05-02": 29,
-      "2026-07-15": 1
+      "2026-05-02": 29
     }
   },
   {
@@ -93,19 +92,18 @@
     "url": "$TOMMY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/tommy.ico",
     "slug": "tommy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 829,
-    "timeDay": 297,
-    "timeWeek": 1653,
-    "timeMonth": 1612,
-    "timeYear": 775,
+    "uptimeYear": "99.85%",
+    "time": 828,
+    "timeDay": 175,
+    "timeWeek": 1596,
+    "timeMonth": 1586,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2025-11-03": 11,
       "2025-11-05": 1,
       "2025-11-06": 38,
       "2025-11-09": 2,
@@ -178,7 +176,8 @@
       "2026-04-17": 1,
       "2026-04-21": 36,
       "2026-04-24": 1,
-      "2026-06-05": 33
+      "2026-06-05": 33,
+      "2026-07-15": 0
     }
   },
   {
@@ -196,7 +195,7 @@
     "timeDay": 228,
     "timeWeek": 232,
     "timeMonth": 286,
-    "timeYear": 872,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2026-04-02": 24,
       "2026-04-03": 16,
