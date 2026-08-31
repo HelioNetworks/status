@@ -37,16 +37,16 @@
     "url": "$HN_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/favicon.ico",
     "slug": "forums",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 619,
-    "timeDay": 310,
-    "timeWeek": 333,
-    "timeMonth": 354,
+    "timeDay": 322,
+    "timeWeek": 339,
+    "timeMonth": 356,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2025-09-25": 16,
@@ -68,7 +68,7 @@
       "2026-08-11": 4,
       "2026-08-26": 1,
       "2026-08-29": 1,
-      "2026-08-31": 6
+      "2026-08-31": 7
     }
   },
   {
