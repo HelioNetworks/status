@@ -26,6 +26,9 @@ sites:
   - name: Lily
     url: $LILY_UPTIME
     icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/windows.ico
+  - name: Ricky
+    url: $RICKY_UPTIME
+    icon: https://raw.githubusercontent.com/HelioNetworks/status/master/assets/ricky.ico
     
 assignees: # Users to assign downtime issues (optional)
   - Kryd0s
