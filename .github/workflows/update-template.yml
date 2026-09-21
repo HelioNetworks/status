@@ -27,7 +27,7 @@ concurrency:
 jobs:
   release:
     name: Build
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
     steps:
