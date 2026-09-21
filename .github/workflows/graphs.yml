@@ -27,7 +27,7 @@ concurrency:
 jobs:
   release:
     name: Generate graphs
-    runs-on: [self-hosted, linux, x64, upptime]
+    runs-on: self-hosted
     env:
       GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
     steps:
