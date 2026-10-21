@@ -13,7 +13,7 @@
     "time": 509,
     "timeDay": 154,
     "timeWeek": 138,
-    "timeMonth": 154,
+    "timeMonth": 148,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-11-19": 2,
@@ -44,7 +44,7 @@
     "time": 589,
     "timeDay": 162,
     "timeWeek": 148,
-    "timeMonth": 156,
+    "timeMonth": 155,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2025-11-24": 21,
@@ -194,19 +194,19 @@
     "url": "$JOHNNY_UPTIME",
     "icon": "https://raw.githubusercontent.com/HelioNetworks/status/master/assets/johnny.ico",
     "slug": "johnny",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "95.61%",
     "time": 810,
-    "timeDay": 128,
-    "timeWeek": 132,
-    "timeMonth": 144,
+    "timeDay": 121,
+    "timeWeek": 130,
+    "timeMonth": 143,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2026-04-03": 16,
+      "2026-04-03": 13,
       "2026-04-04": 12,
       "2026-04-05": 54,
       "2026-04-06": 38,
@@ -259,7 +259,8 @@
       "2026-08-11": 2,
       "2026-08-21": 1,
       "2026-10-18": 1,
-      "2026-10-19": 2
+      "2026-10-19": 2,
+      "2026-10-21": 1
     }
   },
   {
@@ -276,7 +277,7 @@
     "time": 367,
     "timeDay": 113,
     "timeWeek": 134,
-    "timeMonth": 141,
+    "timeMonth": 140,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2025-12-23": 282,
@@ -299,7 +300,7 @@
     "time": 236,
     "timeDay": 112,
     "timeWeek": 103,
-    "timeMonth": 114,
+    "timeMonth": 110,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2025-12-16": 1,
@@ -323,7 +324,7 @@
     "time": 143,
     "timeDay": 136,
     "timeWeek": 142,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 143,
     "dailyMinutesDown": {}
   }
